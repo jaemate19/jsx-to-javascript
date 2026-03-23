@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 // 🔐 Put your API key here (SAFE — backend only)
-$apiKey = "sk-4da7564e107c4ade99b788812884977d";
+$apiKey = "";
 
 //$env = parse_ini_file(__DIR__ . '/.env');
 
