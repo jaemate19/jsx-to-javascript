@@ -33,14 +33,15 @@ The goal of this project is to demonstrate how JSX is interpreted and converted 
 ---
 
 ## 📦 Installation
-bash
-git clone https://github.com/jaemate19/jsx-to-javascript.git
-cd jsx-to-javascript
+   ```bash
+   git clone git@github.com:jaemate19/jsx-to-javascript.git
+   cd knights-tour-web
 
 ---
 
-## Future Improvements
--Add syntax highlighting
--Improve parsing accuracy
--Support complex component structures
--Add error handling for invalid JSX
+Future Improvements
+
+  -Add syntax highlighting
+  -Improve parsing accuracy
+  -Support complex component structures
+  -Add error handling for invalid JSX
