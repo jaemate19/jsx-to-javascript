@@ -26,7 +26,7 @@ The goal of this project is to demonstrate how JSX is interpreted and converted 
 
 ## 🛠️ Tech Stack
 - JavaScript
-- PHP (if applicable backend)
+- PHP
 - HTML/CSS
 - DeepSeek API
 
@@ -36,10 +36,11 @@ The goal of this project is to demonstrate how JSX is interpreted and converted 
    ```bash
    git clone git@github.com:jaemate19/jsx-to-javascript.git
    cd knights-tour-web
+   ```
 
 ---
 
-Future Improvements
+##Future Improvements
 
   -Add syntax highlighting
   -Improve parsing accuracy
