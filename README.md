@@ -5,8 +5,8 @@ This project is a JSX-to-JavaScript conversion tool that transforms JSX syntax i
 
 The goal of this project is to demonstrate how JSX is interpreted and converted under the hood, similar to how modern frameworks like React handle JSX.
 
----
-
+--- 
+ 
 ## ⚙️ Features
 - Convert JSX syntax into standard JavaScript
 - AI-assisted code transformation using DeepSeek API
@@ -40,9 +40,8 @@ The goal of this project is to demonstrate how JSX is interpreted and converted 
 
 ---
 
-##Future Improvements
-
-  -Add syntax highlighting
-  -Improve parsing accuracy
-  -Support complex component structures
-  -Add error handling for invalid JSX
+## Future Improvements
+- Add syntax highlighting
+- Improve parsing accuracy
+- Support complex component structures
+- Add error handling for invalid JSX
