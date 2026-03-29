@@ -1,5 +1,7 @@
 // Configuration
-const API_BASE_URL = '/ai/api';
+const API_BASE_URL = 'api';
+
+console.log(API_BASE_URL);
 
 // State
 let lastResponse = "";
