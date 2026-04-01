@@ -4,15 +4,6 @@ header('Content-Type: application/json');
 // 🔐 Put your API key here (SAFE — backend only)
 $apiKey = "";
 
-//$env = parse_ini_file(__DIR__ . '/.env');
-
-//$apiKey = $env['DEEPSEEK_API_KEY'] ?? null;
-
-//if (!$apiKey) {
-//    echo json_encode(["error" => "API key not found"]);
-//    exit;
-//}
-
 // Get POST data
 $input = json_decode(file_get_contents("php://input"), true);
 
